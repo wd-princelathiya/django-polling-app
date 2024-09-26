@@ -1,7 +1,0 @@
-"The participants will construct software with security flaws, point out the flaws in the project, and provide the steps to fix them."
-
-
-NOTE: The project uses a local SQlite database, and **SHOULD NOT** be used in production environment.
-
-# Vulnerability 1:
-Cross Site Request Forgery: POST form and Django's {% csrf_token %} template tag
